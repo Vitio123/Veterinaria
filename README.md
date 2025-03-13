@@ -23,7 +23,7 @@ pip install django djangorestframework django-cors-headers
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/Vitio123/Veterinaria.git
    ```
 2. Ingresa al directorio del proyecto:
    ```bash
